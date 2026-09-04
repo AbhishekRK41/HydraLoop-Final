@@ -49,3 +49,7 @@ service-worker.js       # PWA offline support
 
 - Push notification reminders for hydration check-ins
 - Sync history across devices
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
